@@ -1,2 +1,2 @@
-#Data Science Lab Work
+#DataScienceLabWork
 all lab works
